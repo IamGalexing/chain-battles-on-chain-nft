@@ -1,4 +1,4 @@
-# On chain dinamic NFT on Polygon Mumbai testnet
+# Dynamic on-chain  NFT on Polygon Mumbai testnet
 
 Contract address: 0xDB3b840f7ae5790A2d025A5eD04f3011C436dA29
 
