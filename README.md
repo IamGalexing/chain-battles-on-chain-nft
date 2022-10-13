@@ -1,13 +1,10 @@
-# Sample Hardhat Project
+# On chain dinamic NFT on Polygon Mumbai testnet
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+Contract address: 0xDB3b840f7ae5790A2d025A5eD04f3011C436dA29
 
-Try running some of the following tasks:
+You can mint and interract on Polygonscan: 
 
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+[Link to the contact on Polygonscan](https://mumbai.polygonscan.com/address/0xDB3b840f7ae5790A2d025A5eD04f3011C436dA29)
+
+
+
